@@ -9,25 +9,25 @@ publishDir = "docs"
 
 [menu]
   # Shown in the side menu.
-  [[menu.main]]
-    name = "post"
-    weight = 0
-    url = "/post"
+#  [[menu.main]]
+#    name = "post"
+#    weight = 0
+#    url = "/post"
   [[menu.main]]
     name = "contact"
     weight = 1
     url = "/contact"
-  [[menu.main]]
-    name = "faq"
-    weight = 2
-    url = "/faq"
+#  [[menu.main]]
+#    name = "faq"
+#    weight = 2
+#    url = "/faq"
 
 [params]
   Keywords = "kubernetes consulting, kubernetes, consulting, virtualization, continuous deployment, continuous integration, source control, infrastructure consulting"
   Description = "Expertise applying emerging technologies to optimize workflow."
   Avatar = "img/logo v1.png"
   SelfIntro = "We build infrastructure that enables business and technology to flourish."
-  Email = "jeef111x@gmail.com"
+  Email = "abstractinfrastructure@gmail.com"
 
   GithubID = "abstractinfrastructure"
   #TwitterID = "Your Twitter ID"
